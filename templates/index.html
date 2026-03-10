@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NYT Book Reviews</title>
+  <link rel="alternate" type="application/rss+xml" title="NYT Book Reviews Feed" href="feed.xml">
+  <style>
+    :root {
+      --bg: #fafaf7;
+      --text: #1a1a1a;
+      --muted: #666;
+      --border: #e0ddd5;
+      --link: #326891;
+      --card-bg: #fff;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+    }
+    header {
+      border-bottom: 2px solid var(--text);
+      padding-bottom: 1.5rem;
+      margin-bottom: 2rem;
+    }
+    h1 {
+      font-size: 2rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      margin-bottom: 0.75rem;
+    }
+    .explainer {
+      color: var(--muted);
+      font-size: 0.95rem;
+      line-height: 1.5;
+      margin-bottom: 0.5rem;
+    }
+    .explainer a { color: var(--link); }
+    .meta-links {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-top: 0.75rem;
+    }
+    .meta-links a { color: var(--link); text-decoration: none; }
+    .meta-links a:hover { text-decoration: underline; }
+
+    .date-group { margin-bottom: 2rem; }
+    .date-heading {
+      font-size: 0.85rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--muted);
+      border-bottom: 1px solid var(--border);
+      padding-bottom: 0.25rem;
+      margin-bottom: 0.75rem;
+    }
+    .review {
+      padding: 0.75rem 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .review:last-child { border-bottom: none; }
+    .review-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      line-height: 1.3;
+    }
+    .review-title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .review-title a:hover { text-decoration: underline; }
+    .review-byline {
+      font-size: 0.9rem;
+      color: var(--muted);
+      margin-top: 0.15rem;
+    }
+    .review-description {
+      font-size: 0.95rem;
+      color: #333;
+      margin-top: 0.35rem;
+    }
+    footer {
+      margin-top: 3rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>NYT Book Reviews</h1>
+    <p class="explainer">
+      Hey Marc &mdash; this page collects every book review the New York Times publishes.
+      It filters the NYT&rsquo;s Books RSS feed daily, keeping only actual reviews and
+      dropping everything else (industry news, obituaries, roundups, etc.).
+      Updated every morning. Bookmark this page.
+    </p>
+    <p class="meta-links">
+      <a href="feed.xml">RSS Feed</a> &middot;
+      {{ reviews | length }} review{{ 's' if reviews | length != 1 }} collected
+      &middot; Last updated {{ last_updated }}
+    </p>
+  </header>
+
+  <main>
+    {% for date, group in grouped_reviews %}
+    <section class="date-group">
+      <h2 class="date-heading">{{ date }}</h2>
+      {% for r in group %}
+      <article class="review">
+        <div class="review-title"><a href="{{ r.url }}" target="_blank" rel="noopener">{{ r.book_title }}</a></div>
+        {% if r.byline %}<div class="review-byline">{{ r.byline }}</div>{% endif %}
+        {% if r.description %}<p class="review-description">{{ r.description }}</p>{% endif %}
+      </article>
+      {% endfor %}
+    </section>
+    {% endfor %}
+  </main>
+
+  <footer>
+    Book reviews sourced from the <a href="https://rss.nytimes.com/services/xml/rss/nyt/Books/Review.xml">NYT Books RSS feed</a>.
+    Built by <a href="https://github.com/avizenilman/nyt-book-reviews">a simple script</a>.
+  </footer>
+</body>
+</html>
