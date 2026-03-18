@@ -90,23 +90,26 @@ def fetch_and_filter() -> list[dict]:
     return reviews
 
 
-def merge_reviews(existing: list[dict], new: list[dict]) -> list[dict]:
-    """Merge new reviews into existing, deduplicating by URL."""
+def merge_reviews(existing: list[dict], new: list[dict]) -> tuple[list[dict], list[dict]]:
+    """Merge new reviews into existing, deduplicating by URL.
+
+    Returns (merged_list, newly_added_list).
+    """
     seen_urls = {r["url"] for r in existing}
     merged = list(existing)
-    added = 0
+    newly_added = []
 
     for review in new:
         if review["url"] and review["url"] not in seen_urls:
             merged.append(review)
             seen_urls.add(review["url"])
-            added += 1
+            newly_added.append(review)
 
     # Sort by published date, newest first
     merged.sort(key=lambda r: r.get("published", ""), reverse=True)
 
-    print(f"  {len(new)} reviews in feed, {added} new, {len(merged)} total")
-    return merged
+    print(f"  {len(new)} reviews in feed, {len(newly_added)} new, {len(merged)} total")
+    return merged, newly_added
 
 
 def group_by_date(reviews: list[dict]) -> list[tuple[str, list[dict]]]:
@@ -202,7 +205,7 @@ def main():
     new_reviews = fetch_and_filter()
 
     print("\n3. Merging reviews...")
-    all_reviews = merge_reviews(existing, new_reviews)
+    all_reviews, newly_added = merge_reviews(existing, new_reviews)
 
     print("\n4. Saving database...")
     save_reviews(all_reviews)
@@ -212,6 +215,11 @@ def main():
 
     print("\n6. Generating RSS feed...")
     generate_feed(all_reviews)
+
+    print("\n7. Writing new reviews for email...")
+    new_file = ROOT / "data" / "new_reviews.json"
+    new_file.write_text(json.dumps(newly_added, indent=2, ensure_ascii=False) + "\n")
+    print(f"  {len(newly_added)} new reviews written to data/new_reviews.json")
 
     print("\nDone!")
 
