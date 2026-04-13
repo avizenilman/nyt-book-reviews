@@ -1,18 +1,26 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/04/12/books/review/passport-photo-service-philip-sharkey.html",
-    "raw_title": "Book Review: ‘Passport Photo Service,’ by Philip Sharkey",
-    "book_title": "‘Passport Photo Service,’ by Philip Sharkey",
-    "byline": "Erica Ackerberg",
-    "description": "In 10 minutes or less, this mom-and-pop London institution produced stylish snapshots for some of the world’s biggest stars.",
-    "published": "2026-04-12"
+    "url": "https://www.nytimes.com/2026/04/13/books/review/go-gentle-maria-semple.html",
+    "raw_title": "Book Review: ‘Go Gentle,’ by Maria Semple",
+    "book_title": "‘Go Gentle,’ by Maria Semple",
+    "byline": "Jeff Giles",
+    "description": "“Go Gentle” throws together art heists, sexual assault and a coven of middle-aged divorcées on the Upper West Side.",
+    "published": "2026-04-13"
   },
   {
-    "url": "https://www.nytimes.com/2026/04/12/books/review/nelio-biedermann-lazar.html",
-    "raw_title": "Book Review: ‘Lázár,’ by Nelio Biedermann",
-    "book_title": "‘Lázár,’ by Nelio Biedermann",
-    "byline": "Elvia Wilk",
-    "description": "“Lázár,” by Nelio Biedermann, is a multigenerational novel that spans the collapse of a monarchy, two world wars and a revolution.",
-    "published": "2026-04-12"
+    "url": "https://www.nytimes.com/2026/04/13/books/review/see-you-on-the-other-side-jay-mcinerney.html",
+    "raw_title": "Book Review: ‘See You on the Other Side,’ by Jay McInerney",
+    "book_title": "‘See You on the Other Side,’ by Jay McInerney",
+    "byline": "Dwight Garner",
+    "description": "Jay McInerney has written about the literary party boy Russell Calloway once a decade since the 1990s. He returns in the Covid novel “See You on the Other Side.”",
+    "published": "2026-04-13"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/04/13/books/review/the-future-is-peace-aziz-abu-sarah-maoz-inon.html",
+    "raw_title": "Book Review: ‘The Future Is Peace,’ by Aziz Abu Sarah and Maoz Inon",
+    "book_title": "‘The Future Is Peace,’ by Aziz Abu Sarah and Maoz Inon",
+    "byline": "Fintan O’Toole",
+    "description": "Aziz Abu Sarah and Maoz Inon both lost loved ones to the conflict in the Middle East. In “The Future Is Peace,” they look for hope and understanding.",
+    "published": "2026-04-13"
   }
 ]
