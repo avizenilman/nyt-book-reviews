@@ -1,10 +1,26 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/04/20/books/review/jan-morris-sara-wheeler.html",
-    "raw_title": "Book Review: ‘Jan Morris: A Life,’ by Sara Wheeler",
-    "book_title": "‘Jan Morris: A Life,’ by Sara Wheeler",
-    "byline": "Dwight Garner",
-    "description": "A new biography of Jan Morris shows why the journalist, world traveler, historian and essayist was far more than a trailblazer.",
-    "published": "2026-04-20"
+    "url": "https://www.nytimes.com/2026/04/21/books/review/permanence-sophie-mackintosh.html",
+    "raw_title": "Book Review: ‘Permanence,’ by Sophie Mackintosh",
+    "book_title": "‘Permanence,’ by Sophie Mackintosh",
+    "byline": "Katie Kitamura",
+    "description": "In Sophie Mackintosh’s novel “Permanence,” cheating couples find themselves in an alternate world free of complication — and missing the mess.",
+    "published": "2026-04-21"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/04/21/books/review/how-it-feels-to-be-alive-megan-ogrady.html",
+    "raw_title": "Book Review: ‘How It Feels to Be Alive,’ by Megan O’Grady",
+    "book_title": "‘How It Feels to Be Alive,’ by Megan O’Grady",
+    "byline": "Charles Finch",
+    "description": "“How It Feels to Be Alive,” by Megan O’Grady, blends criticism with personal history to explore how and why art affects us.",
+    "published": "2026-04-21"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/04/21/books/review/gwendoline-riley-palm-house.html",
+    "raw_title": "Book Review: ‘The Palm House,’ by Gwendoline Riley",
+    "book_title": "‘The Palm House,’ by Gwendoline Riley",
+    "byline": "Christian Lorentzen",
+    "description": "In “The Palm House,” Gwendoline Riley offers understated yet cleareyed observations of human behavior — this time about middle-aged Londoners struggling to stay relevant.",
+    "published": "2026-04-21"
   }
 ]
