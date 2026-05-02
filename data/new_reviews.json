@@ -1,10 +1,18 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/05/01/books/review/chernobyl-life-and-other-disasters-yevgenia-nayberg-kids-graphic-memoir.html",
-    "raw_title": "Book Review: ‘Chernobyl, Life, and Other Disasters,’ by Yevgenia Nayberg",
-    "book_title": "‘Chernobyl, Life, and Other Disasters,’ by Yevgenia Nayberg",
-    "byline": "Elena Gorokhova",
-    "description": "Eleven-year-old Genya plays the pretending game as she crams for an art school entrance exam in Chernobyl’s wake.",
-    "published": "2026-05-01"
+    "url": "https://www.nytimes.com/2026/05/02/books/review/backtalker-kimberle-williams-crenshaw.html",
+    "raw_title": "Book Review: ‘Backtalker,’ by Kimberlé Williams Crenshaw",
+    "book_title": "‘Backtalker,’ by Kimberlé Williams Crenshaw",
+    "byline": "Colin Grant",
+    "description": "In her memoir “Backtalker,” Kimberlé Williams Crenshaw shows how personal trauma spurred her influential and controversial ideas about race and gender.",
+    "published": "2026-05-02"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/05/02/books/review/the-successor-mikhail-fishman.html",
+    "raw_title": "Book Review: ‘The Successor,’ by Mikhail Fishman",
+    "book_title": "‘The Successor,’ by Mikhail Fishman",
+    "byline": "David Kortava",
+    "description": "In “The Successor,” the exiled journalist Mikhail Fishman tells the story of a charming Russian politician who might have made his country into a liberal democracy.",
+    "published": "2026-05-02"
   }
 ]
