@@ -1,10 +1,18 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/05/06/books/review/from-life-itself-suzy-hansen.html",
-    "raw_title": "Book Review: ‘From Life Itself,’ by Suzy Hansen",
-    "book_title": "‘From Life Itself,’ by Suzy Hansen",
-    "byline": "Jennifer Szalai",
-    "description": "In a new book, the journalist Suzy Hansen plumbs an Istanbul community for insights into Turkey’s hard-right turn.",
-    "published": "2026-05-06"
+    "url": "https://www.nytimes.com/2026/05/07/books/review/revenge-for-the-sixities-peter-s-canellos-alito-mollie-hemingway.html",
+    "raw_title": "Book Review: ‘Revenge for the Sixties,’ by Peter S. Canellos; ‘Alito,’ by Mollie Hemingway",
+    "book_title": "‘Revenge for the Sixties,’ by Peter S. Canellos; ‘Alito,’ by Mollie Hemingway",
+    "byline": "Mary Jo McConahay",
+    "description": "Two new biographies of the Supreme Court justice show how his career was propelled by a legal movement that coalesced to take down Roe v. Wade.",
+    "published": "2026-05-07"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/05/07/books/review/last-contract-of-isako-fonda-lee.html",
+    "raw_title": "Book Review: ‘The Last Contract of Isako,’ by Fonda Lee",
+    "book_title": "‘The Last Contract of Isako,’ by Fonda Lee",
+    "byline": "Amal El-Mohtar",
+    "description": "Fonda Lee’s “cyberpunk samurai in space” novel follows a sword-wielding warrior trying to finish one last job.",
+    "published": "2026-05-07"
   }
 ]
