@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "url": "https://www.nytimes.com/2026/05/16/books/review/take-me-with-you-steven-rowley.html",
+    "raw_title": "Book Review: ‘Take Me With You,’ by Steven Rowley",
+    "book_title": "‘Take Me With You,’ by Steven Rowley",
+    "byline": "TJ Klune",
+    "description": "Steven Rowley’s new novel, “Take Me With You,” asks who we are without our partners.",
+    "published": "2026-05-16"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/05/16/books/review/aea-varfis-van-warmelo-attention-seeking-behavior.html",
+    "raw_title": "Book Review: ‘Attention-Seeking Behavior,’ by Aea Varfis-van Warmelo",
+    "book_title": "‘Attention-Seeking Behavior,’ by Aea Varfis-van Warmelo",
+    "byline": "Justin Taylor",
+    "description": "Aea Varfis-van Warmelo’s novel follows a commitment-averse liar who is plagued by visions of violence.",
+    "published": "2026-05-16"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/05/16/books/review/take-me-to-your-leader-neil-degrasse-tyson.html",
+    "raw_title": "Book Review: ‘Take Me to Your Leader,’ by Neil deGrasse Tyson",
+    "book_title": "‘Take Me to Your Leader,’ by Neil deGrasse Tyson",
+    "byline": "Alec Nevala-Lee",
+    "description": "The popular astrophysicist can be witty and informative when making science accessible. You wouldn’t know it from his new book, “Take Me to Your Leader.”",
+    "published": "2026-05-16"
+  }
+]
