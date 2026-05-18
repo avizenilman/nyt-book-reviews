@@ -1,10 +1,26 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/05/17/books/review/the-wonderful-world-that-almost-was-review-andrew-durbin.html",
-    "raw_title": "Book Review: ‘The Wonderful World That Almost Was: A Life of Peter Hujar and Paul Thek’",
-    "book_title": "‘The Wonderful World That Almost Was: A Life of Peter Hujar and Paul Thek’",
-    "byline": "Alexandra Jacobs",
-    "description": "In “The Wonderful World That Almost Was,” Andrew Durbin reconstructs the coterie that surrounded the artist-lovers Peter Hujar and Paul Thek.",
-    "published": "2026-05-17"
+    "url": "https://www.nytimes.com/2026/05/18/books/review/theo-baker-how-to-rule-the-world.html",
+    "raw_title": "Book Review: ‘How to Rule the World,’ by Theo Baker",
+    "book_title": "‘How to Rule the World,’ by Theo Baker",
+    "byline": "Anand Giridharadas",
+    "description": "In his first book, Theo Baker chronicles an outrageously eventful year navigating an enigmatic center of power.",
+    "published": "2026-05-18"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/05/18/books/review/jesmyn-ward-witness-and-respair.html",
+    "raw_title": "Book Review: ‘On Witness and Respair,’ by Jesmyn Ward",
+    "book_title": "‘On Witness and Respair,’ by Jesmyn Ward",
+    "byline": "Dwight Garner",
+    "description": "The two-time National Book Award winner collects essays, profiles and appreciations in a new book, “On Witness and Respair.”",
+    "published": "2026-05-18"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/05/18/books/review/the-theater-james-verini.html",
+    "raw_title": "Book Review: ‘The Theater,’ by James Verini",
+    "book_title": "‘The Theater,’ by James Verini",
+    "byline": "Caroline Alexander",
+    "description": "In “The Theater,” the journalist James Verini recounts the bombing of a performing arts space turned refugee shelter in the middle of war-torn Mariupol.",
+    "published": "2026-05-18"
   }
 ]
