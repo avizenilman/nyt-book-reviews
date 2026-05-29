@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "url": "https://www.nytimes.com/2026/05/29/books/review/jill-biden-memoir-view-from-the-east-wing.html",
+    "raw_title": "Book Review: ‘View From the East Wing,’ by Jill Biden",
+    "book_title": "‘View From the East Wing,’ by Jill Biden",
+    "byline": "Alexandra Jacobs",
+    "description": "Beyond a few pointed digs at her husband’s successor, “View From the East Wing” largely sticks to the head-spinning details of first lady-hood.",
+    "published": "2026-05-29"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/05/29/books/review/meg-wolitzer-charlie-panek-found-sound-aida-salazar-stream.html",
+    "raw_title": "Book Review: ‘Found Sound,’ by Meg Wolitzer and Charlie Panek, and ‘Stream,’ by Aida Salazar",
+    "book_title": "‘Found Sound,’ by Meg Wolitzer and Charlie Panek, and ‘Stream,’ by Aida Salazar",
+    "byline": "Jennifer Howard",
+    "description": "Meg Wolitzer and Charlie Panek’s “Found Sound” and Aida Salazar’s “Stream” send their protagonists on a listening (and healing) tour of real life.",
+    "published": "2026-05-29"
+  }
+]
