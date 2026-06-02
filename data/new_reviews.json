@@ -1,26 +1,34 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/06/01/books/review/whistler-ann-patchett.html",
-    "raw_title": "Book Review: ‘Whistler,’ by Ann Patchett",
-    "book_title": "‘Whistler,’ by Ann Patchett",
-    "byline": "Helen Schulman",
-    "description": "In “Whistler,” a surprise encounter at the Met changes the course of their lives.",
-    "published": "2026-06-01"
+    "url": "https://www.nytimes.com/2026/06/02/books/review/stolen-revolutions-yeganeh-torbati-bozorgmehr-sharafedin.html",
+    "raw_title": "Book Review: ‘Stolen Revolution,’ by Yeganeh Torbati and Bozorgmehr Sharafedin",
+    "book_title": "‘Stolen Revolution,’ by Yeganeh Torbati and Bozorgmehr Sharafedin",
+    "byline": "Reza Aslan",
+    "description": "In a quietly devastating new book, two journalists chart the protest movements fighting for change inside the country.",
+    "published": "2026-06-02"
   },
   {
-    "url": "https://www.nytimes.com/2026/06/01/books/review/harold-bloom-man-who-read-everything.html",
-    "raw_title": "Book Review: ‘The Man Who Read Everything: The Literary Letters of Harold Bloom’",
-    "book_title": "‘The Man Who Read Everything: The Literary Letters of Harold Bloom’",
-    "byline": "Dwight Garner",
-    "description": "A collection of Harold Bloom’s letters details the working life of one of America’s most influential intellects.",
-    "published": "2026-06-01"
+    "url": "https://www.nytimes.com/2026/06/02/books/review/josh-weil-what-came-west.html",
+    "raw_title": "Book Review: ‘What Came West,’ by Josh Weil",
+    "book_title": "‘What Came West,’ by Josh Weil",
+    "byline": "Hamilton Cain",
+    "description": "Josh Weil’s new novel follows an autistic trapper on an odyssey during the California gold rush.",
+    "published": "2026-06-02"
   },
   {
-    "url": "https://www.nytimes.com/2026/06/01/books/review/1873-liaquat-ahamed.html",
-    "raw_title": "Book Review: ‘1873,’ by Liaquat Ahamed",
-    "book_title": "‘1873,’ by Liaquat Ahamed",
-    "byline": "Trevor Jackson",
-    "description": "In “1873,” the historian and financier Liaquat Ahamed traces the political consequences of booming markets that left a lot of people behind.",
-    "published": "2026-06-01"
+    "url": "https://www.nytimes.com/2026/06/02/books/review/land-maggie-ofarrell.html",
+    "raw_title": "Book Review: ‘Land,’ by Maggie O’Farrell",
+    "book_title": "‘Land,’ by Maggie O’Farrell",
+    "byline": "Fiona Mozley",
+    "description": "Set in the decades after the Great Hunger, “Land” is a rich portrait of family life amid Ireland’s long struggle against British rule.",
+    "published": "2026-06-02"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/06/02/books/review/david-baerwald-fire-agent.html",
+    "raw_title": "Book Review: ‘The Fire Agent,’ by David Baerwald",
+    "book_title": "‘The Fire Agent,’ by David Baerwald",
+    "byline": "Dan Fesperman",
+    "description": "“The Fire Agent,” by David Baerwald, is a historical novel that spans two continents and world wars.",
+    "published": "2026-06-02"
   }
 ]
