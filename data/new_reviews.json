@@ -1,10 +1,18 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/06/08/books/review/simon-pare-poupart-trash-garbagemans-story.html",
-    "raw_title": "Book Review: ‘Trash!: A Garbageman’s Story,’ by Simon Paré-Poupart",
-    "book_title": "‘Trash!: A Garbageman’s Story,’ by Simon Paré-Poupart",
-    "byline": "Dwight Garner",
-    "description": "In his memoir, Simon Paré-Poupart recounts the highs and lows of hauling trash for more than 20 years.",
-    "published": "2026-06-08"
+    "url": "https://www.nytimes.com/2026/06/09/books/review/james-ellroy-red-sheet.html",
+    "raw_title": "Book Review: ‘Red Sheet,’ by James Ellroy",
+    "book_title": "‘Red Sheet,’ by James Ellroy",
+    "byline": "William T. Vollmann",
+    "description": "Set in 1962 Los Angeles, “Red Sheet” follows the murder and mayhem behind a “mini Red Scare.”",
+    "published": "2026-06-09"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/06/09/books/review/ben-fountain-rasputin-swims-the-potomac.html",
+    "raw_title": "Book Review: ‘Rasputin Swims the Potomac,’ by Ben Fountain",
+    "book_title": "‘Rasputin Swims the Potomac,’ by Ben Fountain",
+    "byline": "David Gates",
+    "description": "In Ben Fountain’s new novel, Washington insiders scheme to replace the president with a religious professional wrestler.",
+    "published": "2026-06-09"
   }
 ]
