@@ -1,10 +1,18 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/06/10/books/review/cocked-and-boozy-brooke-barbier.html",
-    "raw_title": "Book Review: ‘Cocked and Boozy,’ by Brooke Barbier",
-    "book_title": "‘Cocked and Boozy,’ by Brooke Barbier",
-    "byline": "J. D. Biersdorfer",
-    "description": "In her new history, “Cocked and Boozy,” Brooke Barbier illuminates the pervasive role that alcohol played throughout the colonial era.",
-    "published": "2026-06-10"
+    "url": "https://www.nytimes.com/2026/06/11/books/review/the-american-school-of-spies-stephan-talty.html",
+    "raw_title": "Book Review: ‘The American School of Spies,’ by Stephan Talty",
+    "book_title": "‘The American School of Spies,’ by Stephan Talty",
+    "byline": "Edward Dolnick",
+    "description": "In “The American School of Spies,” Stephan Talty tells the story of the desperate struggle to preserve antiquities during World War II.",
+    "published": "2026-06-11"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/06/11/books/review/this-dark-night-deborah-lutz.html",
+    "raw_title": "Book Review: ‘This Dark Night: Emily Brontë, a Life,’ by Deborah Lutz",
+    "book_title": "‘This Dark Night: Emily Brontë, a Life,’ by Deborah Lutz",
+    "byline": "Sadie Stein",
+    "description": "In her lyrical new biography, “This Dark Night,” Deborah Lutz shines light on the most enigmatic of the literary, secluded Brontë sisters.",
+    "published": "2026-06-11"
   }
 ]
