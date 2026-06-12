@@ -1,18 +1,26 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/06/11/books/review/the-american-school-of-spies-stephan-talty.html",
-    "raw_title": "Book Review: ‘The American School of Spies,’ by Stephan Talty",
-    "book_title": "‘The American School of Spies,’ by Stephan Talty",
-    "byline": "Edward Dolnick",
-    "description": "In “The American School of Spies,” Stephan Talty tells the story of the desperate struggle to preserve antiquities during World War II.",
-    "published": "2026-06-11"
+    "url": "https://www.nytimes.com/2026/06/12/books/review/drayton-and-mackenzie-alexander-starritt.html",
+    "raw_title": "Book Review: ‘Drayton and Mackenzie,’ by Alexander Starritt",
+    "book_title": "‘Drayton and Mackenzie,’ by Alexander Starritt",
+    "byline": "John Williams",
+    "description": "In “Drayton and Mackenzie,” two young grads navigating the 2008 financial crisis enact a plan they hope will change their fate.",
+    "published": "2026-06-12"
   },
   {
-    "url": "https://www.nytimes.com/2026/06/11/books/review/this-dark-night-deborah-lutz.html",
-    "raw_title": "Book Review: ‘This Dark Night: Emily Brontë, a Life,’ by Deborah Lutz",
-    "book_title": "‘This Dark Night: Emily Brontë, a Life,’ by Deborah Lutz",
-    "byline": "Sadie Stein",
-    "description": "In her lyrical new biography, “This Dark Night,” Deborah Lutz shines light on the most enigmatic of the literary, secluded Brontë sisters.",
-    "published": "2026-06-11"
+    "url": "https://www.nytimes.com/2026/06/12/books/review/rialto-kate-milford-fatal-glitch-camp-zero-erin-entrada-kelly-eliot-schrefer.html",
+    "raw_title": "Book Review: ‘Rialto,’ by Kate Milford, and ‘Fatal Glitch: Camp Zero,’ by Erin Entrada Kelly and Eliot Schrefer",
+    "book_title": "‘Rialto,’ by Kate Milford, and ‘Fatal Glitch: Camp Zero,’ by Erin Entrada Kelly and Eliot Schrefer",
+    "byline": "Jennifer Hubert Swan",
+    "description": "Kate Milford’s cozy mystery is set at an abandoned amusement park, while Erin Entrada Kelly and Eliot Schrefer’s horror satire unfolds at a malevolent sleepaway camp.",
+    "published": "2026-06-12"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/06/12/books/review/as-if-isabel-waidner.html",
+    "raw_title": "Book Review: ‘As If,’ by Isabel Waidner",
+    "book_title": "‘As If,’ by Isabel Waidner",
+    "byline": "Dustin Illingworth",
+    "description": "In this surreal book, two spiraling men swap lives.",
+    "published": "2026-06-12"
   }
 ]
