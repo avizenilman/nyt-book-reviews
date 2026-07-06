@@ -1,10 +1,26 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/07/05/books/review/country-people-daniel-mason.html",
-    "raw_title": "Book Review: ‘Country People,’ by Daniel Mason",
-    "book_title": "‘Country People,’ by Daniel Mason",
-    "byline": "Alexandra Jacobs",
-    "description": "In Daniel Mason’s charming “Country People,” a stuck father and his happier family are tempted, and changed, during a stint on a bucolic campus.",
-    "published": "2026-07-05"
+    "url": "https://www.nytimes.com/2026/07/06/books/review/roshan-sethi-the-simp.html",
+    "raw_title": "Book Review: ‘The Simp,’ by Roshan Sethi",
+    "book_title": "‘The Simp,’ by Roshan Sethi",
+    "byline": "Sam Lipsyte",
+    "description": "“The Simp,” by Roshan Sethi, is a satire of the unending demands, learned helplessness and stubborn racism of Hollywood elites.",
+    "published": "2026-07-06"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/06/books/review/guillermo-stitch-coast-of-everything.html",
+    "raw_title": "Book Review: ‘The Coast of Everything,’ by Guillermo Stitch",
+    "book_title": "‘The Coast of Everything,’ by Guillermo Stitch",
+    "byline": "Dustin Illingworth",
+    "description": "“The Coast of Everything,” by Guillermo Stitch, is structured like a nesting doll, with one story hidden within another.",
+    "published": "2026-07-06"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/06/books/review/irvine-welsh-men-in-love.html",
+    "raw_title": "Book Review: ‘Men in Love,’ by Irvine Welsh",
+    "book_title": "‘Men in Love,’ by Irvine Welsh",
+    "byline": "James Lasdun",
+    "description": "Irvine Welsh brings back his beloved Edinburgh ensemble for his new novel, “Men in Love.”",
+    "published": "2026-07-06"
   }
 ]
