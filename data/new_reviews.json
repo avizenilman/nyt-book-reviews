@@ -1,10 +1,26 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/07/12/books/review/every-inch-a-lady-audrey-smaltz.html",
-    "raw_title": "Book Review: ‘Every Inch a Lady,’ by Audrey Smaltz",
-    "book_title": "‘Every Inch a Lady,’ by Audrey Smaltz",
-    "byline": "Roxanne Fequiere",
-    "description": "In “Every Inch a Lady,” Audrey Smaltz shares her incredible story — if not her inimitable voice.",
-    "published": "2026-07-12"
+    "url": "https://www.nytimes.com/2026/07/13/books/review/aging-out-lucy-schiller.html",
+    "raw_title": "Book Review: ‘Aging Out,’ by Lucy Schiller",
+    "book_title": "‘Aging Out,’ by Lucy Schiller",
+    "byline": "Michelle Orange",
+    "description": "From assisted living to elder activism and her own experience as a caregiver, Lucy Schiller investigates aging’s myriad challenges in her first book.",
+    "published": "2026-07-13"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/13/books/review/sigrid-nunez-it-will-come-back-to-you.html",
+    "raw_title": "Book Review: ‘It Will Come Back to You,’ by Sigrid Nunez",
+    "book_title": "‘It Will Come Back to You,’ by Sigrid Nunez",
+    "byline": "Dwight Garner",
+    "description": "Her first collection of short fiction, “It Will Come Back to You,” is threaded with erudition but never pretentious.",
+    "published": "2026-07-13"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/13/books/review/catch-the-devil-pamela-colloff.html",
+    "raw_title": "Book Review: ‘Catch the Devil,’ by Pamela Colloff",
+    "book_title": "‘Catch the Devil,’ by Pamela Colloff",
+    "byline": "Ted Conover",
+    "description": "In “Catch the Devil,” Pamela Colloff vividly tells the true story of the con man who traded on other prisoners’ “confessions” for clemency.",
+    "published": "2026-07-13"
   }
 ]
