@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "url": "https://www.nytimes.com/2026/07/20/books/review/colson-whitehead-cool-machine.html",
+    "raw_title": "Book Review: ‘Cool Machine,’ by Colson Whitehead",
+    "book_title": "‘Cool Machine,’ by Colson Whitehead",
+    "byline": "Dwight Garner",
+    "description": "The final installment of his Harlem crime trilogy is full of heists, cultural shifts and nostalgia for 1980s New York.",
+    "published": "2026-07-20"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/20/books/review/the-lost-founder-jesse-wegman.html",
+    "raw_title": "Book Review: ‘The Lost Founder,’ by Jesse Wegman",
+    "book_title": "‘The Lost Founder,’ by Jesse Wegman",
+    "byline": "Claire Rydell Arcenas",
+    "description": "In “The Lost Founder,” the journalist Jesse Wegman looks back at a largely forgotten and singular voice that helped make the United States what it is today.",
+    "published": "2026-07-20"
+  }
+]
