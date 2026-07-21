@@ -1,18 +1,34 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/07/20/books/review/colson-whitehead-cool-machine.html",
-    "raw_title": "Book Review: ‘Cool Machine,’ by Colson Whitehead",
-    "book_title": "‘Cool Machine,’ by Colson Whitehead",
-    "byline": "Dwight Garner",
-    "description": "The final installment of his Harlem crime trilogy is full of heists, cultural shifts and nostalgia for 1980s New York.",
-    "published": "2026-07-20"
+    "url": "https://www.nytimes.com/2026/07/21/books/review/the-mortons-justine-larbalestier-scott-westerfeld.html",
+    "raw_title": "Book Review: ‘The Mortons,’ by Justine Larbalestier and Scott Westerfeld",
+    "book_title": "‘The Mortons,’ by Justine Larbalestier and Scott Westerfeld",
+    "byline": "Sarah Lyall",
+    "description": "In “The Mortons,” a young hit woman — a prodigy at killing — is tested by inherited secrets and her own morality.",
+    "published": "2026-07-21"
   },
   {
-    "url": "https://www.nytimes.com/2026/07/20/books/review/the-lost-founder-jesse-wegman.html",
-    "raw_title": "Book Review: ‘The Lost Founder,’ by Jesse Wegman",
-    "book_title": "‘The Lost Founder,’ by Jesse Wegman",
-    "byline": "Claire Rydell Arcenas",
-    "description": "In “The Lost Founder,” the journalist Jesse Wegman looks back at a largely forgotten and singular voice that helped make the United States what it is today.",
-    "published": "2026-07-20"
+    "url": "https://www.nytimes.com/2026/07/21/books/review/how-a-band-of-difficult-thinkers-shaped-one-author-and-the-world.html",
+    "raw_title": "Book Review: ‘The Frenchmen,’ by Emily Eakin",
+    "book_title": "‘The Frenchmen,’ by Emily Eakin",
+    "byline": "Clancy Martin",
+    "description": "In “The Frenchmen,” Emily Eakin traces the rise and fall of postmodernist philosophy, and the surprising ways its influence lingers.",
+    "published": "2026-07-21"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/21/books/review/bitchy-roberta-gregory.html",
+    "raw_title": "Book Review: ‘Bitchy!,’ by Roberta Gregory",
+    "book_title": "‘Bitchy!,’ by Roberta Gregory",
+    "byline": "Sam Thielman",
+    "description": "A new compendium of Roberta Gregory’s comics does away with delicacy in the name of feminism.",
+    "published": "2026-07-21"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/21/books/review/unsayable-michael-cunningham.html",
+    "raw_title": "Book Review: ‘Unsayable,’ by Michael Cunningham",
+    "book_title": "‘Unsayable,’ by Michael Cunningham",
+    "byline": "Brandon Taylor",
+    "description": "Blending autobiography with meditations on craft, “Unsayable” feels destined for the graduation gift bag.",
+    "published": "2026-07-21"
   }
 ]
