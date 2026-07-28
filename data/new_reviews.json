@@ -1,10 +1,18 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/07/27/books/review/biological-war-annie-jacobsen.html",
-    "raw_title": "Book Review: ‘Biological War,’ by Annie Jacobsen",
-    "book_title": "‘Biological War,’ by Annie Jacobsen",
-    "byline": "Dwight Garner",
-    "description": "In a sobering new book, Annie Jacobsen considers the potentially civilization-ending impacts of biological war.",
-    "published": "2026-07-27"
+    "url": "https://www.nytimes.com/2026/07/28/books/review/liberation-summer-micki-mcelya.html",
+    "raw_title": "Book Review: ‘Liberation Summer,’ by Micki McElya",
+    "book_title": "‘Liberation Summer,’ by Micki McElya",
+    "byline": "Katie Roiphe",
+    "description": "A new book by the historian Micki McElya considers how the politics of beauty both shaped and divided the women’s movement.",
+    "published": "2026-07-28"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/07/28/books/review/all-thats-unseen-emilee-hackney.html",
+    "raw_title": "Book Review: ‘All That’s Unseen,’ by Emilee Hackney",
+    "book_title": "‘All That’s Unseen,’ by Emilee Hackney",
+    "byline": "Jamie Quatro",
+    "description": "“All That’s Unseen,” by Emilee Hackney, an eighth-generation Appalachian, offers a portrait both loving and cleareyed of the region that formed her.",
+    "published": "2026-07-28"
   }
 ]
