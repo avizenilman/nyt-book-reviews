@@ -1,10 +1,18 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/07/31/books/review/the-savage-landscape-cal-flyn.html",
-    "raw_title": "Book Review: ‘The Savage Landscape,’ by Cal Flyn",
-    "book_title": "‘The Savage Landscape,’ by Cal Flyn",
-    "byline": "Lauren Redniss",
-    "description": "In “The Savage Landscape,” the nature writer Cal Flyn argues that wilderness is just one more man-made invention.",
-    "published": "2026-07-31"
+    "url": "https://www.nytimes.com/2026/08/01/books/review/plant-lady-minyoung-kang.html",
+    "raw_title": "Book Review: ‘Plant Lady,’ by Minyoung Kang",
+    "book_title": "‘Plant Lady,’ by Minyoung Kang",
+    "byline": "Mary Marge Locker",
+    "description": "“Plant Lady,” by the Korean novelist Minyoung Kang, imagines an urban haven for women who need an escape from dangerous men.",
+    "published": "2026-08-01"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/08/01/books/review/the-unknown-riley-sager.html",
+    "raw_title": "Book Review: ‘The Unknown,’ by Riley Sager",
+    "book_title": "‘The Unknown,’ by Riley Sager",
+    "byline": "Hannah Holland",
+    "description": "In Riley Sager’s “The Unknown,” actresses on a research trip stumble into a paranormal mystery.",
+    "published": "2026-08-01"
   }
 ]
