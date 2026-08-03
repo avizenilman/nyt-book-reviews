@@ -1,18 +1,26 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/08/02/books/review/paul-yoon-etna.html",
-    "raw_title": "Book Review: ‘Etna,’ by Paul Yoon",
-    "book_title": "‘Etna,’ by Paul Yoon",
-    "byline": "Fiona Maazel",
-    "description": "Paul Yoon’s deeply moving novel “Etna” explores the aftermath of war with an unconventional narrator.",
-    "published": "2026-08-02"
+    "url": "https://www.nytimes.com/2026/08/03/books/review/awake-awake-fiona-mozley.html",
+    "raw_title": "Book Review: ‘Awake Awake,’ by Fiona Mozley",
+    "book_title": "‘Awake Awake,’ by Fiona Mozley",
+    "byline": "Ruth Franklin",
+    "description": "In Fiona Mozley’s novel “Awake Awake,” a London writer returns to her hometown to unearth hazy memories of past friendships and traumas.",
+    "published": "2026-08-03"
   },
   {
-    "url": "https://www.nytimes.com/2026/08/02/books/review/the-story-of-your-life-kathryn-jezer-morton.html",
-    "raw_title": "Book Review: ‘The Story of Your Life,’ by Kathryn Jezer-Morton",
-    "book_title": "‘The Story of Your Life,’ by Kathryn Jezer-Morton",
-    "byline": "Alexandra Jacobs",
-    "description": "In “The Story of Your Life,” Kathryn Jezer-Morton explores, without castigating, the wish to present a curated version of experience via social media.",
-    "published": "2026-08-02"
+    "url": "https://www.nytimes.com/2026/08/03/books/review/voices-from-the-kitchen-marc-meyer.html",
+    "raw_title": "Book Review: ‘Voices From the Kitchen'",
+    "book_title": "‘Voices From the Kitchen'",
+    "byline": "Dwight Garner",
+    "description": "Food books by chefs and celebrities arrive by the landslide. “Voices From the Kitchen” highlights workers who get far less attention.",
+    "published": "2026-08-03"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/08/03/books/review/the-peoples-historian-howard-zinn-dave-zirin.html",
+    "raw_title": "Book Review: ‘The People’s Historian,’ by Dave Zirin",
+    "book_title": "‘The People’s Historian,’ by Dave Zirin",
+    "byline": "Adam Hochschild",
+    "description": "Dave Zirin traces the radical career of Howard Zinn, whose “A People’s History of the United States” has sold millions of copies.",
+    "published": "2026-08-03"
   }
 ]
