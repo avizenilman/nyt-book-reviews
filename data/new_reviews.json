@@ -1,10 +1,26 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/08/10/books/review/joby-warrick-carlos-the-jackal.html",
-    "raw_title": "Book Review: ‘The Jackal,’ by Joby Warrick",
-    "book_title": "‘The Jackal,’ by Joby Warrick",
-    "byline": "Dwight Garner",
-    "description": "In his new book, Joby Warrick traces the rise and fall of Carlos the Jackal, the notorious terrorist-for-hire.",
-    "published": "2026-08-10"
+    "url": "https://www.nytimes.com/2026/08/11/books/review/richard-russo-under-the-falls.html",
+    "raw_title": "Book Review: ‘Under the Falls,’ by Richard Russo",
+    "book_title": "‘Under the Falls,’ by Richard Russo",
+    "byline": "Zachary Lazar",
+    "description": "In Richard Russo’s new novel, “Under the Falls,” a singer reckons with his troubled past and the community he left behind.",
+    "published": "2026-08-11"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/08/11/books/review/chang-rae-lee-tender-age.html",
+    "raw_title": "Book Review: ‘A Tender Age,’ by Chang-rae Lee",
+    "book_title": "‘A Tender Age,’ by Chang-rae Lee",
+    "byline": "Jane Hu",
+    "description": "In his new book, Chang-rae Lee follows a 10-year-old into the social powder kegs of schoolyards and summer camps.",
+    "published": "2026-08-11"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/08/11/books/review/sunrise-tea-obreht.html",
+    "raw_title": "Book Review: ‘Sunrise,’ by Téa Obreht",
+    "book_title": "‘Sunrise,’ by Téa Obreht",
+    "byline": "Julia Scheeres",
+    "description": "In “Sunrise,” Téa Obreht mashes up Western gothic, murder mystery and survival saga.",
+    "published": "2026-08-11"
   }
 ]
