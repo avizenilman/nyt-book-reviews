@@ -1,10 +1,18 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/08/17/books/review/edwidge-danticat-dey.html",
-    "raw_title": "Book Review: ‘Dèy,’ by Edwidge Danticat",
-    "book_title": "‘Dèy,’ by Edwidge Danticat",
-    "byline": "Imbolo Mbue",
-    "description": "In Edwidge Danticat’s new novel, “Dèy,” a Haitian American mother in Miami experiences the numbing aftershocks of a random act of violence.",
-    "published": "2026-08-17"
+    "url": "https://www.nytimes.com/2026/08/18/books/review/range-dorthe-nors.html",
+    "raw_title": "Book Review: ‘Range,’ by Dorthe Nors",
+    "book_title": "‘Range,’ by Dorthe Nors",
+    "byline": "Charlotte Wood",
+    "description": "In “Range,” by the Danish writer Dorthe Nors, a misfit astrophysicist lives alone in the wilderness, struggling to connect.",
+    "published": "2026-08-18"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/08/18/books/review/the-book-of-chuck-latoya-watkins.html",
+    "raw_title": "Book Review: ‘The Book of Chuck,’ by Charmaine Wilkerson",
+    "book_title": "‘The Book of Chuck,’ by Charmaine Wilkerson",
+    "byline": "Charmaine Wilkerson",
+    "description": "In “The Book of Chuck,” clairvoyance is a terrible inheritance.",
+    "published": "2026-08-18"
   }
 ]
