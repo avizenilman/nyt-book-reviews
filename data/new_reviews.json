@@ -1,10 +1,18 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/08/23/books/review/earl-swift-up-on-cove-mountain.html",
-    "raw_title": "Book Review: ‘Up on Cove Mountain,’ by Earl Swift",
-    "book_title": "‘Up on Cove Mountain,’ by Earl Swift",
-    "byline": "Ben McGrath",
-    "description": "In “Up on Cove Mountain” Earl Swift confronts a place — and a tragedy — that haunts him.",
-    "published": "2026-08-23"
+    "url": "https://www.nytimes.com/2026/08/24/books/review/the-time-tax-annie-lowrey.html",
+    "raw_title": "Book Review: ‘The Time Tax,’ by Annie Lowrey",
+    "book_title": "‘The Time Tax,’ by Annie Lowrey",
+    "byline": "Tim Wu",
+    "description": "In “The Time Tax,” the Atlantic journalist Annie Lowrey takes aim at bureaucratic red tape.",
+    "published": "2026-08-24"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/08/24/books/review/heart-of-glass-jennifer-hillier.html",
+    "raw_title": "Book Review: ‘Heart of Glass,’ by Jennifer Hillier",
+    "book_title": "‘Heart of Glass,’ by Jennifer Hillier",
+    "byline": "Flynn Berry",
+    "description": "In Jennifer Hillier’s new book, a woman must confront her traumatic past after a body washes up on the shores of her seaside town.",
+    "published": "2026-08-24"
   }
 ]
