@@ -1,10 +1,18 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/08/31/books/review/the-castle-jon-ronson.html",
-    "raw_title": "Book Review: ‘The Castle,’ by Jon Ronson",
-    "book_title": "‘The Castle,’ by Jon Ronson",
-    "byline": "Alexandra Jacobs",
-    "description": "The journalist Jon Ronson finds metaphor and meaning in the story of one man’s baronial fantasia and others like him who are living unmoored from reality.",
-    "published": "2026-08-31"
+    "url": "https://www.nytimes.com/2026/09/01/books/review/american-scoundrel-kai-bird-susan-goldmark.html",
+    "raw_title": "Book Review: ‘American Scoundrel,’ by Kai Bird",
+    "book_title": "‘American Scoundrel,’ by Kai Bird",
+    "byline": "Jennifer Szalai",
+    "description": "“American Scoundrel” traces the career of Roy Cohn, whose smash-mouth politics continue to shape our own.",
+    "published": "2026-09-01"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/01/books/review/53-days-timothy-ryback.html",
+    "raw_title": "Book Review: ‘53 Days,’ by Timothy W. Ryback",
+    "book_title": "‘53 Days,’ by Timothy W. Ryback",
+    "byline": "Sam Adler-Bell",
+    "description": "In “53 Days,” the historian Timothy W. Ryback shows how the Nazis used democratic means to destroy German democracy.",
+    "published": "2026-09-01"
   }
 ]
