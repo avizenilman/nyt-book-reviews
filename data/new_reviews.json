@@ -1,26 +1,34 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/09/14/books/review/nik-cohn-jerry-stahl-corner-boy-gonzo-neurotic.html",
-    "raw_title": "Book Review: ‘Corner Boy’ and ‘Gonzo Neurotic’",
-    "book_title": "‘Corner Boy’ and ‘Gonzo Neurotic’",
-    "byline": "Dwight Garner",
-    "description": "Two career-spanning essay collections, from Nik Cohn and Jerry Stahl, revel in life’s margins and recapture auras past.",
-    "published": "2026-09-14"
+    "url": "https://www.nytimes.com/2026/09/15/books/review/our-noble-selves-kate-atkinson.html",
+    "raw_title": "Book Review: ‘Our Noble Selves,’ by Kate Atkinson",
+    "book_title": "‘Our Noble Selves,’ by Kate Atkinson",
+    "byline": "Sadie Stein",
+    "description": "“Our Noble Selves” takes place amid the 1951 Festival of Britain, when a traumatized ex-war reporter and P.O.W. goes from government cog to murder suspect.",
+    "published": "2026-09-15"
   },
   {
-    "url": "https://www.nytimes.com/2026/09/14/books/review/profiles-in-cowardice-jacob-weisberg.html",
-    "raw_title": "Book Review: ‘Profiles in Cowardice,’ by Jacob Weisberg",
-    "book_title": "‘Profiles in Cowardice,’ by Jacob Weisberg",
-    "byline": "Joseph O’Neill",
-    "description": "In “Profiles in Cowardice,” Jacob Weisberg offers a grim twist on John F. Kennedy’s collection of heroic biographies.",
-    "published": "2026-09-14"
+    "url": "https://www.nytimes.com/2026/09/15/books/review/end-times-fascism-naomi-klein-astra-taylor.html",
+    "raw_title": "Book Review: ‘End Times Fascism,’ by Naomi Klein and Astra Taylor",
+    "book_title": "‘End Times Fascism,’ by Naomi Klein and Astra Taylor",
+    "byline": "Damon Linker",
+    "description": "In “End Times Fascism,” Naomi Klein and Astra Taylor argue that apocalyptic ideology has taken hold over American elites.",
+    "published": "2026-09-15"
   },
   {
-    "url": "https://www.nytimes.com/2026/09/14/books/review/exit-party-emily-st-john-mandel.html",
-    "raw_title": "Book Review: ‘Exit Party,’ by Emily St. John Mandel",
-    "book_title": "‘Exit Party,’ by Emily St. John Mandel",
-    "byline": "Lincoln Michel",
-    "description": "In “Exit Party,” by Emily St. John Mandel, two versions of America’s future crash into each other.",
-    "published": "2026-09-14"
+    "url": "https://www.nytimes.com/2026/09/15/books/review/fallow-sarah-anderson.html",
+    "raw_title": "Book Review: ‘Fallow,’ by Sarah Anderson",
+    "book_title": "‘Fallow,’ by Sarah Anderson",
+    "byline": "Hilary Leichter",
+    "description": "In Sarah Anderson’s satirical novel, “Fallow,” a debt-laden woman becomes a professional surrogate for a corporate behemoth.",
+    "published": "2026-09-15"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/15/books/review/sebastian-barry-newer-world.html",
+    "raw_title": "Book Review: ‘The Newer World,’ by Sebastian Barry",
+    "book_title": "‘The Newer World,’ by Sebastian Barry",
+    "byline": "Ian McGuire",
+    "description": "Sebastian Barry’s new novel tours a post-Civil War America where cruelty is ever-present but love endures.",
+    "published": "2026-09-15"
   }
 ]
