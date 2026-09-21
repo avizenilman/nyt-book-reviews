@@ -1,10 +1,18 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/09/20/books/review/ari-emanuel-roll-the-calls.html",
-    "raw_title": "Book Review: ‘Roll the Calls,’ by Ari Emanuel",
-    "book_title": "‘Roll the Calls,’ by Ari Emanuel",
-    "byline": "Alexandra Jacobs",
-    "description": "Fights, feuds and insults are all in a day’s work for Ari Emanuel, who offers an unvarnished look at his rapacious career in a new memoir.",
-    "published": "2026-09-20"
+    "url": "https://www.nytimes.com/2026/09/21/books/review/shadow-before-the-flame-catherine-grace-katz.html",
+    "raw_title": "Book Review: ‘Shadow Before the Flame,’ by Catherine Grace Katz",
+    "book_title": "‘Shadow Before the Flame,’ by Catherine Grace Katz",
+    "byline": "Keith O’Brien",
+    "description": "In “Shadow Before the Flame,” Catherine Grace Katz puts us back on the famously doomed airship.",
+    "published": "2026-09-21"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/21/books/review/crossing-the-red-line-akbar-shahid-ahmed.html",
+    "raw_title": "Book Review: ‘Crossing the Red Line,’ by Akbar Shahid Ahmed",
+    "book_title": "‘Crossing the Red Line,’ by Akbar Shahid Ahmed",
+    "byline": "Peter Beinart",
+    "description": "In “Crossing the Red Line,” Akbar Shahid Ahmed goes behind the scenes in the Biden White House in the wake of the Oct. 7 attacks.",
+    "published": "2026-09-21"
   }
 ]
