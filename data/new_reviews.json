@@ -1,10 +1,18 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/09/24/books/review/antonio-damasio-natural-intelligence-and-the-logic-of-consciousness.html",
-    "raw_title": "Book Review: ‘Natural Intelligence & the Logic of Consciousness,’ by Antonio Damasio",
-    "book_title": "‘Natural Intelligence & the Logic of Consciousness,’ by Antonio Damasio",
-    "byline": "David Eagleman",
-    "description": "In his new book, the neuroscientist Antonio Damasio argues that without feelings, true intelligence cannot exist.",
-    "published": "2026-09-24"
+    "url": "https://www.nytimes.com/2026/09/25/books/review/the-ballad-of-the-fugitive-william-parker-cristin-okeefe-aptowicz.html",
+    "raw_title": "Book Review: ‘The Ballad of the Fugitive William Parker,’ by Cristin O’Keefe Aptowicz",
+    "book_title": "‘The Ballad of the Fugitive William Parker,’ by Cristin O’Keefe Aptowicz",
+    "byline": "David W. Blight",
+    "description": "A new book by Cristin O’Keefe Aptowicz recounts how violent resistance by a group of armed Black men fueled the fight over slavery.",
+    "published": "2026-09-25"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/25/books/review/lois-lowry-building-903.html",
+    "raw_title": "Book Review: ‘Building 903,’ by Lois Lowry",
+    "book_title": "‘Building 903,’ by Lois Lowry",
+    "byline": "Neal Shusterman",
+    "description": "Lois Lowry pioneered dystopian fiction for young readers. “Building 903” adds to her legacy.",
+    "published": "2026-09-25"
   }
 ]
