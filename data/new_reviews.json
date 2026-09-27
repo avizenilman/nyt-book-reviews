@@ -1,18 +1,26 @@
 [
   {
-    "url": "https://www.nytimes.com/2026/09/26/books/review/dodge-city-patrick-dewitt.html",
-    "raw_title": "Book Review: ‘Dodge City,’ by Patrick deWitt",
-    "book_title": "‘Dodge City,’ by Patrick deWitt",
-    "byline": "Andrew Martin",
-    "description": "“Dodge City,” by Patrick deWitt, follows a young man on a road trip to Canada to avoid conscription in Vietnam.",
-    "published": "2026-09-26"
+    "url": "https://www.nytimes.com/2026/09/27/books/review/man-in-the-mirror-anand-giridharadas.html",
+    "raw_title": "Book Review: ‘Man in the Mirror,’ by Anand Giridharadas",
+    "book_title": "‘Man in the Mirror,’ by Anand Giridharadas",
+    "byline": "Scott Turow",
+    "description": "“Man in the Mirror,” by Anand Giridharadas, is a searching investigation into the 2023 death of Jordan Neely and the trial of the man who held him in a chokehold.",
+    "published": "2026-09-27"
   },
   {
-    "url": "https://www.nytimes.com/2026/09/26/books/review/mestra-madeline-miller.html",
-    "raw_title": "Book Review: ‘Mestra,’ by Madeline Miller",
-    "book_title": "‘Mestra,’ by Madeline Miller",
-    "byline": "Jennifer Harlan",
-    "description": "In “Mestra,” Madeline Miller follows the daughter of the king of Thessaly on her endless, self-destructive quest to satisfy her insatiable father.",
-    "published": "2026-09-26"
+    "url": "https://www.nytimes.com/2026/09/27/books/review/may-we-feed-the-king-rebecca-perry.html",
+    "raw_title": "Book Review: ‘May We Feed the King,’ by Rebecca Perry",
+    "book_title": "‘May We Feed the King,’ by Rebecca Perry",
+    "byline": "Lauren Elkin",
+    "description": "In Rebecca Perry’s “May We Feed the King,” a curator falls down a rabbit hole imagining life in a palace court.",
+    "published": "2026-09-27"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/09/27/books/review/darkness-becomes-bright-emily-ogden.html",
+    "raw_title": "Book Review: ‘Darkness Becomes Bright,’ by Emily Ogden",
+    "book_title": "‘Darkness Becomes Bright,’ by Emily Ogden",
+    "byline": "Lauren Christensen",
+    "description": "An engaging new book shows the master of American Gothic to be a deeply disturbed man who embraced the darkness most of us flee.",
+    "published": "2026-09-27"
   }
 ]
